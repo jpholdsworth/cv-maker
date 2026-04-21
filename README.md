@@ -5,7 +5,15 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 ## 📑 Table of Contents
-
+- [The Vision](#-the-vision)
+- [UI/UX](#-uiux)
+- [Features](#-features)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Tech Stack](#️-tech-stack)
+- [Architecture](#-architecture)
+- [Development Principles](#-development-principles)
+- [Future Improvements](#-future-improvements)
 
 ## 🎯 The Vision
 
