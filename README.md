@@ -88,4 +88,8 @@ npm run dev
 - **Performance-first** - no unnecessary dependencies, minimal bundle size
 
 ## 🔮 Future Improvements
-
+- [ ] Add responsiveness for mobile and tablet screen sizes
+- [ ] Add multiple CV templates to choose from
+- [ ] Allow users to save and load CV data using `localStorage`
+- [ ] Add PDF export functionality
+- [ ] Support drag-and-drop section reordering
