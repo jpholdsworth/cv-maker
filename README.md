@@ -42,19 +42,50 @@ The result is an intuitive tool that gets out of the way and lets the content sp
 - ⚡ **Fast & lightweight** - built with Vite for rapid development and optimised performance
 
 ## 🚀 Getting Started
+### Prerequisites
+- [Node.js](https://nodejs.org/) (v20.19 or v22.12 or higher)
+- **npm** (included with Node.js)
 
+### Installation & Setup
+1. Clone the repository
+```bash
+git clone https://github.com/jpholdsworth/cv-maker.git
+cd cv-maker
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Start the development server
+```bash
+npm run dev
+```
+
+4. Open your browser and visit `http://localhost:5173/`
 
 ## ⚡ Usage
-
+1. Open the app in your browser
+2. Fill in each section of the form - personal details, education and work experience
+3. Add multiple education or experience entries using the **+** button
+4. Use the customise panel to adjust CV colours, fonts and layout
+5. Watch the CV preview update in real time on the right
 
 ## 🛠️ Tech Stack
-
+- **React** - component-based UI and state management
+- **CSS3** - layout, responsive design and print styles
+- **Vite** - fast local development and production bundling
 
 ## 🧠 Architecture
 
 
 ## 🧩 Development Principles
-
+- **Controlled components** - all inputs are controlled via React state for predictable behaviour
+- **Single source of truth** - one state object in `App` drives both the form and the CV preview
+- **Separation of concerns** - form logic, CV rendering, customisation and styling are clearly separated
+- **Component reusability** - shared components like `FormInput`, `Buttons` and `CVSection` are used throughout
+- **Performance-first** - no unnecessary dependencies, minimal bundle size
 
 ## 🔮 Future Improvements
 
