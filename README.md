@@ -6,6 +6,8 @@
 
 **CV Maker** is a browser-based application that allows users to fill in a structured form and instantly generate a clean, professional CV. Built with React, it demonstrates practical form state management, real-time UI rendering and customisable CV output - no external CV libraries, just structured component logic.
 
+![Screenshot of CV Maker](./doc/homepage.png)
+
 ## 📑 Table of Contents
 - [The Vision](#-the-vision)
 - [UI/UX](#-uiux)
